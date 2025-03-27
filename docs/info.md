@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+An AND gate, OR gate, and XOR gate light up 3 different LEDS.
 
 ## How to test
 
-Explain how to use your project
+Test gates by running all possible options for all three LEDS.
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Three different LEDS needed. 
